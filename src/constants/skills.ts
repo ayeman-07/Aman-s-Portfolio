@@ -1,0 +1,27 @@
+const skills = [
+  { name: 'aws', label: 'AWS' },
+  { name: 'bash', label: 'Bash' },
+  { name: 'c++', label: 'C++' },
+  { name: 'cloudinary', label: 'Cloudinary' },
+  { name: 'css3', label: 'CSS3' },
+  { name: 'docker', label: 'Docker' },
+  { name: 'firebase', label: 'Firebase' },
+  { name: 'git', label: 'Git' },
+  { name: 'github', label: 'GitHub' },
+  { name: 'html5', label: 'HTML5' },
+  { name: 'java', label: 'Java' },
+  { name: 'js', label: 'JavaScript' },
+  { name: 'mongodb', label: 'MongoDB' },
+  { name: 'mongoose', label: 'Mongoose' },
+  { name: 'mysql', label: 'MySQL' },
+  { name: 'nextjs', label: 'Next.js' },
+  { name: 'nodejs', label: 'Node.js' },
+  { name: 'postgresql', label: 'PostgreSQL' },
+  { name: 'postman', label: 'Postman' },
+  { name: 'reactjs', label: 'React.js' },
+  { name: 'render', label: 'Render' },
+  { name: 'tailwindcss', label: 'Tailwind CSS' },
+  { name: 'typescript', label: 'TypeScript' },
+];
+
+export default skills;
