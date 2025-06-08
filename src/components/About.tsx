@@ -8,7 +8,7 @@ const About = () => {
 
       <div className='font-textMeOne italic text-xl leading-relaxed mb-20 md:text-right'>
         <p>
-          I am a third-year undergraduate at IIIT Surat with a strong interest in full-stack web development, data structures and algorithms, and competitive programming.
+        I am a third-year undergraduate at IIIT Surat with a strong interest in full-stack web development, data structures and algorithms, and competitive programming.
         </p>
       </div>
 
@@ -20,7 +20,7 @@ const About = () => {
 
       <div className='text-lg font-spaceGrotesk italic font-thin text-left tracking-wide mb-10'>
         <p>
-          I am dedicated to academic excellence and continuously strive to deepen my understanding of core computer science concepts. I'm looking for opportunities that allow me to grow as an engineer, solve meaningful problems, and contribute to high-impact development teams.
+          I am dedicated to academic excellence and continuously strive to deepen my understanding of core computer science concepts. I am looking for opportunities that allow me to grow as an engineer, solve meaningful problems, and contribute to high-impact development teams.
         </p>
       </div>
 
