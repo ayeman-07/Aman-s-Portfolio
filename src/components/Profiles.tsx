@@ -8,7 +8,7 @@ const Profiles = () => {
       logo: '/images/github.svg',
       color: 'hover:text-[#333]',
       bgColor: 'bg-[#333]',
-      description: 'My open source contributions and projects'
+      description: 'My collaborations and projects'
     },
     {
       name: 'LeetCode',

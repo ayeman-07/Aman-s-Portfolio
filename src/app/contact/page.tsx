@@ -66,7 +66,7 @@ const ContactPage = () => {
     {
       name: 'Instagram',
       icon: '/images/instagram.svg',
-      link: 'https://www.instagram.com/ayeman_07/',
+      link: 'https://www.instagram.com/aye_man_07/',
       color: 'hover:text-[#E4405F]',
       bgColor: 'bg-[#E4405F]'
     },
