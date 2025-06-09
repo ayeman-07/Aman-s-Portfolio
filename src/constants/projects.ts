@@ -28,7 +28,7 @@ const projects: Project[] = [
     name: "ArtHaat Vendor Portal",
     description: "A dedicated portal for artists to manage their products, orders, and sales analytics on the ArtHaat platform.",
     image: "/images/projects/arthaat-vendor.png",
-    githubLink: "https://github.com/ayeman-07/ArtHaat-Vendor",
+    githubLink: "https://github.com/ayeman-07/ArtHaat",
     deployedLink: "https://arthaat-admin.vercel.app/",
     technologies: ["React", "Node.js", "Express", "MongoDB"]
   },
